@@ -33,3 +33,5 @@ list_paths = [["Home", "Store A"], ["Store A", "Home"], ["Home", "Store B"]]
 
 for key, value in paths.items():
     print(key, value)
+
+
