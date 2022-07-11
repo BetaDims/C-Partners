@@ -1,5 +1,6 @@
 # Practicing with selenium
 # Automating Boring stuff
+# This tutorials are based on this youtube playlist: https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ
 # -----------------------------------------------------------------------
 # Tutorial - Lesson 1
 
